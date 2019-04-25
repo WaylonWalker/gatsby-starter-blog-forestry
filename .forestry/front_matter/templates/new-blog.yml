@@ -17,4 +17,5 @@ fields:
     required: true
   default: '2015-05-01T22:12:03.284Z'
 pages:
+- src/pages/second-post.20190425141804
 - src/pages/new-post..md
