@@ -1,0 +1,18 @@
+---
+label: New Blog
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Title
+  description: The Blog Post Title
+  config:
+    required: true
+  default: New Post
+- type: text
+  name: date
+  label: Date
+  description: Example format 2015-05-01T22:12:03.284Z
+  config:
+    required: true
+  default: '2015-05-01T22:12:03.284Z'
