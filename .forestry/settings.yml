@@ -10,7 +10,9 @@ sections:
   create: documents
   match: "**/*.md"
   exclude: md
-  new_doc_ext: '20190425141804'
+  new_doc_ext: md
+  templates:
+  - new-blog
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
